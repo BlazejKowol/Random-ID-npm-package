@@ -1,0 +1,7 @@
+{
+  "name": "@kowolinho/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Błażej Kowol <kowol.blazej@gmail.com>",
+  "license": "MIT"
+}
